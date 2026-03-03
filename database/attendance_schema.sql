@@ -1,0 +1,22 @@
+-- =============================================
+-- PostgreSQL Attendance Schema untuk Sistem Presensi
+-- DEPRECATED: Please use database/attendance_init.sql instead
+-- This file is kept for reference only
+-- =============================================
+-- 
+-- Main implementation is now in: database/attendance_init.sql
+-- Run attendance_init.sql for complete setup with:
+-- - All tables (attendance, attendance_summary)
+-- - Proper indexes for performance
+-- - Database views for easy querying
+-- - Sample data for testing
+-- - Triggers for timestamp updates
+-- 
+-- The new schema provides:
+-- 1. Better index organization
+-- 2. View-based reporting
+-- 3. Soft delete support
+-- 4. Automated timestamp management
+-- 5. Complete sample data
+-- 6. Performance optimizations
+-- =============================================
